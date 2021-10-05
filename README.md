@@ -11,7 +11,7 @@ Test task for TLVGenerator
 
 - The task's app structure is done with Domain-Driven Design, Clean Code and TDD principles in mind (with respect to simplistic/KISS appraches where affordable and considering the fact that it's a test task with minimal fictionality and no further scaling).
 - Though I could use more verbose (or independent) approaches for implementing such concepts as custom BLoC for state management or custom GraphQL client instead of common solutions from pub.dev, I declined re-inventing the wheel for that particular case to match mine and others' affordable timing frames.
-- Though as I used an idiomatic GraphQL API which implies the usage of specific widgets for queries/mutations' UI integration, I managed to pass and adapt all client logic to data/datasource layer to comply and simplify DDD and TDD principles.
+- Despite the fact that I used an idiomatic GraphQL API which implies the usage of specific widgets for queries/mutations' UI integration, I managed to pass and adapt all client logic to data/datasource layer to comply and simplify DDD and TDD principles.
 
 ## Task explication:
 
